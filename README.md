@@ -35,7 +35,7 @@ Gather OSINT on IP and MAC addresses.
 
 ### 🔹 Installation:
 
-git clone https://github.com/YourName/IPG.git  
+git clone https://github.com/ishaklaz/IPG.git  
 cd IPG  
 chmod +x ipg.sh
 
