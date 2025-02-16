@@ -1,4 +1,4 @@
-# IP Ghost (IPG)
+# IP Ghost (IPG) V1.0
 
 ### Advanced Network Scanning & OSINT Tool
 
